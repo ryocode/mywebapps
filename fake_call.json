@@ -2,7 +2,7 @@
 "Ads":
   [
     {
-      "status_app":"1",
+      "status_app":"0",
       "link_redirect":"https://play.google.com/store/apps/details?id=com.codenesty.phenonphotoeditor",
       "admob_inter":"ca-app-pub-3940256099942544/1033173712",
       "admob_native":"ca-app-pub-3940256099942544/6300978111",
