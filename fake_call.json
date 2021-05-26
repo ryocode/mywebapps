@@ -1,5 +1,20 @@
 {
-
+"Ads": 
+  [
+    {
+      "status_redirect":"0",
+      "link_redirect":"https://play.google.com/store/apps/details?id=",
+      "admob_inter":"ca-app-pub-3940256099942544/1033173712",
+      "admob_banner":"ca-app-pub-3940256099942544/6300978111",
+      "admob_open_ads":"ca-app-pub-3940256099942544/3419835294",
+      "select_ads":"ADMOB",
+      "interval":"5",
+      "admob_reward":"	ca-app-pub-3940256099942544/5224354917",
+      "link_yt_full":"https://www.youtube.com/watch?v=2wpl0GxaqKE",
+      "link_yt_short":"vnd.youtube:2wpl0GxaqKE"
+    }
+  ],
+  
   "More":
   [
     {
