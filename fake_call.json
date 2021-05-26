@@ -64,16 +64,16 @@
     {
       "id":1,
       "name":"Cewek Telfon Pacar",
-      "image_url":"file:///android_asset/cewek_01.webp",
-      "video_url":"file:///android_asset/video_cewek_01.mp4",
-      "voice_url":"suara_cewek_01.mp3"
+      "image_url":"https://ryocode.github.io/mywebapps/cewek_01.webp",
+      "video_url":"https://ryocode.github.io/mywebapps/video_cewek_01.mp4",
+      "voice_url":"https://ryocode.github.io/mywebapps/suara_cewek_01.mp3"
     },
     {
       "id":2,
       "name":"Cowok Telfon Pacar",
-      "image_url":"file:///android_asset/home.webp",
-      "video_url":"file:///android_asset/video_cowok_01.mp4",
-      "voice_url":"suara_cowok_01.mp3"
+      "image_url":"https://ryocode.github.io/mywebapps/cowok_01.webp",
+      "video_url":"https://ryocode.github.io/mywebapps/video_cowok_01.mp4",
+      "voice_url":"https://ryocode.github.io/mywebapps/suara_cowok_01.mp3"
     }
   ]
 
