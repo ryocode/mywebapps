@@ -4,39 +4,39 @@
   [
     {
       "id":1,
-      "title":"Ludo King",
-      "image":"file:///android_asset/ludo.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
+      "title":"Phenon - Photo effect neon",
+      "image":"file:///android_asset/phenon.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.codenesty.phenonphotoeditor"
     },
     {
       "id":2,
-      "title":"Homescapes",
-      "image":"file:///android_asset/home.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
+      "title":"Cats Rescue",
+      "image":"file:///android_asset/catsrescue.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.codenesty.monkey_creative_game_cat_rescue"
     },
     {
       "id":3,
-      "title":"Minecraft",
-      "image":"file:///android_asset/mine.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
+      "title":"Rabbit Buuble Shooter",
+      "image":"file:///android_asset/rabbitbubbleshooter.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.codenesty.monkey_creative_game_rabbit_bubble_shooter"
     },
     {
       "id":4,
-      "title":"Sonic the Hedgehog™ Classic",
-      "image":"file:///android_asset/sonic.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.sega.sonic1px"
+      "title":"Block Puzzle Pro",
+      "image":"file:///android_asset/blockpuzzlepro.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.codenesty.monkeycreative_blockpuzzle"
     },
     {
       "id":5,
-      "title":"War Machines: Best Free Online War & Military Game",
-      "image":"file:///android_asset/machine.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.fungames.battletanksbeta"
+      "title":"Whats Tools Pro",
+      "image":"file:///android_asset/whatstoolspro.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.codenesty.whatstoolspro"
     },
     {
       "id":6,
-      "title":"Tank vs Helicopter. Free War Game: Massive Warfare",
-      "image":"file:///android_asset/heli.webp",
-      "link":"https://play.google.com/store/apps/details?id=com.tinybytes.massivewarfare2"
+      "title":"Magic Forest",
+      "image":"file:///android_asset/magicforest.webp",
+      "link":"https://play.google.com/store/apps/details?id=com.codenesty.magicforestpro"
     }
   ],
   "Item":
@@ -45,14 +45,14 @@
       "id":1,
       "name":"Cewek Telfon Pacar",
       "image_url":"file:///android_asset/cewek_01.webp",
-      "video_url":"footbal",
+      "video_url":"file:///android_asset/video_cewek_01.mp4",
       "voice_url":"suara_cewek_01.mp3"
     },
     {
       "id":2,
       "name":"Cowok Telfon Pacar",
       "image_url":"file:///android_asset/home.webp",
-      "video_url":"flower",
+      "video_url":"file:///android_asset/video_cowok_01.mp4",
       "voice_url":"suara_cowok_01.mp3"
     }
   ]
